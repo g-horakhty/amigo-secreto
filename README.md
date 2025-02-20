@@ -36,7 +36,7 @@ Se você deseja executar o projeto localmente, siga os passos abaixo:
 3. Execute o seguinte comando para clonar o repositório:
 
    ```bash
-   git clone https://github.com/g-horakhty/amigo-secreto
+   git clone https://github.com/g-horakhty/amigo-secreto.git
 
   ---
   Feito com ❤️ e ☕ por Gabriel.

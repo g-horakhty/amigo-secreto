@@ -9,7 +9,7 @@ function adicionarAmigo() {
 
     // Entrada
     if (nome === "") {
-        alert("Por favor, insira um nome.");
+        alert("Por favor, para continuar deverá inserir um nome.");
         return;
     }
 
@@ -42,7 +42,7 @@ function atualizarListaAmigos() {
 function sortearAmigo() {
     // Verifica se tem amigos
     if (amigos.length === 0) {
-        alert("Por favor, para sotear, adicione amigos antes de sortear.");
+        alert("Por favor, para sortear adicione amigos antes.");
         return;
     }
 
